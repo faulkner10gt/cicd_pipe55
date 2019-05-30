@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": null,
+  "enable_parameterized_testing": false,
+  "name": "cicd return true",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 14:10:59",
+  "sys_id": "b22dcea0dbbdb700e87dd49fdf96190e",
+  "sys_mod_count": 1,
+  "sys_name": "cicd return true",
+  "sys_package": "01aa4620dbbdb700e87dd49fdf9619c4",
+  "sys_policy": null,
+  "sys_scope": "01aa4620dbbdb700e87dd49fdf9619c4",
+  "sys_update_name": "sys_atf_test_b22dcea0dbbdb700e87dd49fdf96190e",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 14:13:12"
+}
