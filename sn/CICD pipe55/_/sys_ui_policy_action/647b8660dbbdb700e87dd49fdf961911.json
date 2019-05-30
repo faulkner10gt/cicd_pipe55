@@ -1,0 +1,21 @@
+{
+  "cleared": false,
+  "disabled": "ignore",
+  "field": "contact_type",
+  "mandatory": "ignore",
+  "sys_class_name": "sys_ui_policy_action",
+  "sys_created_by": "chris.faulkner@snc",
+  "sys_created_on": "2019-05-30 14:03:33",
+  "sys_id": "647b8660dbbdb700e87dd49fdf961911",
+  "sys_mod_count": 4,
+  "sys_name": "contact_type",
+  "sys_package": "01aa4620dbbdb700e87dd49fdf9619c4",
+  "sys_policy": null,
+  "sys_scope": "01aa4620dbbdb700e87dd49fdf9619c4",
+  "sys_update_name": "sys_ui_policy_action_647b8660dbbdb700e87dd49fdf961911",
+  "sys_updated_by": "chris.faulkner@snc",
+  "sys_updated_on": "2019-05-30 14:06:59",
+  "table": "incident",
+  "ui_policy": "254bc260dbbdb700e87dd49fdf96197c",
+  "visible": false
+}
